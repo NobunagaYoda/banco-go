@@ -15,4 +15,5 @@ func main() {
 	fmt.Println(contaSilvia, contaGustavo)
 	fmt.Println(status)
 
+	// testando o git
 }
