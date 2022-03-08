@@ -6,6 +6,12 @@ import (
 	"fmt"
 )
 
+// type ContaPoupanca struct {
+// 	Titular                              Titular
+// 	NumeroAgencia, NumeroConta, Operacao int
+// 	Saldo                                float64
+// }
+
 func main() {
 
 	clienteBruno := clientes.Titular{"Bruno", "123.123.123-12", "Desenvolvedor Go"}
